@@ -1,7 +1,4 @@
-# WonderWatt
-Analysis of time series power consumption data
 
-https://datastudio.google.com/reporting/1bC2VzvgPjAyfBzpg36SaDLiiunkcStH5/page/oyeQ
 
 How to do time series prediction using RNNs, TensorFlow and Cloud ML Engine 
 https://medium.com/google-cloud/how-to-do-time-series-prediction-using-rnns-and-tensorflow-and-cloud-ml-engine-2ad2eeb189e8
